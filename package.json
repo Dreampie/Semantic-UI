@@ -1,0 +1,22 @@
+{
+  "name": "@dreampie/semantic-ui",
+  "version": "2.2.10",
+  "description": "This repository is automatically synced with the main [Semantic UI](https://github.com/Semantic-Org/Semantic-UI) repository to provide lightweight CSS only version of Semantic UI.",
+  "main": "semantic.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dreampie",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dreampie/Semantic-UI.git"
+  },
+  "keywords": [
+    "Semantic-UI"
+  ],
+  "bugs": {
+    "url": "https://github.com/Dreampie/Semantic-UI/issues"
+  },
+  "homepage": "https://github.com/Dreampie/Semantic-UI#readme"
+}
